@@ -176,6 +176,13 @@ h1, h2, .label {
   margin-left: 10px;
 }
 
+#socials {
+  clear: both;
+  float: right;
+  margin-top: 8px;
+  text-align: right;
+}
+
 header > span.fa {
   text-align: center;
   margin-right: 3px;
